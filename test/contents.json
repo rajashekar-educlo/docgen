@@ -1,0 +1,17 @@
+[
+	{
+		"heading" : "Introduction to EDUCLO",
+		"column" : 1,
+		"pages" : [
+			{
+				"title": "Introduction to EDUCLO",
+				"source": "Introduction.txt"
+			},
+			{
+				"title": "How can we help",
+				"source": "EducloHelp.txt"
+			}
+		]
+	}
+
+]

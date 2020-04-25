@@ -1,0 +1,15 @@
+
+Educlo is world's first education platform connecting students and accredited training organisations. EDUCLO vision is to empower students with wide range of data and access to best learning tools any where anytime, register with us to access wide range of resources and largest education community connecting students and training organisations worldwide.
+
+**Bold Text**
+
+    #include<stdio.h>
+    main()
+    {
+    return 0;
+    }
+[EDUCLO](educlo.com)
+
+![Image](./files/images/educlo.png)
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/7EY3cOMkNPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen crossorigin="anonymous"></iframe>
