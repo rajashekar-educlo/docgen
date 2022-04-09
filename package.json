@@ -15,7 +15,7 @@
     "gulp": "^3.9.1",
     "image-size": "0.3.5",
     "markdown-it": "4.2.1",
-    "moment": "2.10.3",
+    "moment": "2.29.2",
     "rsvp": "3.0.18",
     "spawn-args": "0.1.0",
     "z-schema": "3.10.2"
